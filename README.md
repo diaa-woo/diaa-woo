@@ -1,16 +1,18 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Coder-diadntjr&fontSize=75)
 
-<!--
-**diadntjr/diadntjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm diadntjr!👋
+## _I'm just a junior developer who loves to learn!_
 
-Here are some ideas to get you started:
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working hard on development related studies. I'm still lacking a lot, but I'm full of passion!
+(And I also depend to Google Translate...:( )
+
+## About Me!
+
+- 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
+- 👨‍💻 I want to Embeded Software Developer
+- 💬 Ask me about something else, please make some issues in this repositories. 
+
+
+
