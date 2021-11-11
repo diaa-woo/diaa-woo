@@ -3,8 +3,6 @@
 # Hi there, I'm diadntjr!👋
 ## _I'm just a junior developer who loves to learn!_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 I'm working hard on development related studies. I'm still lacking a lot, but I'm full of passion!
 (And I also depend to Google Translate...:( )
 
@@ -13,6 +11,4 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
 - 👨‍💻 I want to Embeded Software Developer
 - 💬 Ask me about something else, please make some issues in this repositories. 
-
-
 
