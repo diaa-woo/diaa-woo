@@ -12,3 +12,5 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 - 👨‍💻 I want to Embeded Software Developer
 - 💬 Ask me about something else, please make some issues in this repositories. 
 
+## I can do!
+https://img.shields.io/badge/-C-#A8B9CC?style=flat&logo=C
