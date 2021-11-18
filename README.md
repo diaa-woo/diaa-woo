@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Coder-diadntjr&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_diadntjr&fontSize=75)
 
 # Hi there, I'm diadntjr!👋
 ## _I'm just a junior developer who loves to learn!_
