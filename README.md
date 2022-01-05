@@ -16,4 +16,4 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 https://img.shields.io/badge/-C-#A8B9CC?style=flat&logo=C
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diadntjr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diadntjr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
