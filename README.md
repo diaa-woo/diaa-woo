@@ -13,7 +13,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 - 💬 Ask me about something else, please make some issues in this repositories. 
 
 ## I can do!
-https://img.shields.io/badge/-C-#A8B9CC?style=flat&logo=C
+https://img.shields.io/badge/#A8B9CC?style=flat&logo=C
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diadntjr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
