@@ -39,7 +39,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
 
 ### Sometime I used...
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=Ableton Live&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Pioneer_DJ-1A1928?style=flat-square&logo=Pioneer DJe&logoColor=white"/></a> /
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=Ableton Live&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Pioneer_DJ-1A1928?style=flat-square&logo=Pioneer DJ&logoColor=white"/></a> /
 
 
 ## My Github Stats
