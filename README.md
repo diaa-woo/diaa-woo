@@ -30,7 +30,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> 
 
 ### WEB
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 ### APP
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a> / <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
