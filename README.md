@@ -4,7 +4,7 @@
 ## _I'm just a junior developer who loves to learn!_
 
 I'm working hard on development related studies. I'm still lacking a lot, but I'm full of passion!
-(And I also depend to Google Translate...:( )
+(And I also depend to Google Translate...:(  )
 
 ## About Me!
 
