@@ -13,7 +13,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 - 💬 Ask me about something else, please make some issues in this repositories. 
 
 ## My SNS!
-<a href="https://www.instagram.com/sks_dntjr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+<a href="https://www.instagram.com/diaa_woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
 ## I can do!
 
