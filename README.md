@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_diadntjr&fontSize=75)
 
-# Hi there, I'm diadntjr!👋
+# Hi there, I'm Wooseok Diaa Hwang!👋
 ## _I'm just a junior developer who loves to learn!_
 
 I'm working hard on development related studies. I'm still lacking a lot, but I'm full of passion!
@@ -9,15 +9,37 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 ## About Me!
 
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
-- 👨‍💻 I want to Embeded Software Developer
+- 👨‍💻 I want to Embeded Software Developer(main is Firmware)
 - 💬 Ask me about something else, please make some issues in this repositories. 
 
-## My SNS!
-<a href="https://www.instagram.com/diaa_woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
 ## I can do!
 
-Something add...
+<h3 align="center">💥 Main Dev 💥</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center">🧨 Sub Dev 🧨</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+ 
+</p>
+
+## Connect Me!
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@diadntjr"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.instagram.com/diaa_woo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:dntjr0501@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 ## My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diadntjr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
