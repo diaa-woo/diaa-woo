@@ -10,7 +10,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
 - 👨‍💻 I want to Embedded Software Developer(main is Firmware).
-- 💬 Ask me about something else, please make some issues in this repositories. 
+- 💬 If you want to ask something for me, send me e-mail or Instagram DM please :).
 
 
 ## I can do!
@@ -20,7 +20,6 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <a href="https://www.st.com/content/st_com/en.html" target="_blank"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🧨 Sub Dev 🧨</h3>
