@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_diadntjr&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Diaa&fontSize=75)
 
 # Hi there, I'm Wooseok Diaa Hwang!👋
 ## _I'm just a junior developer who loves to learn!_
 
 I'm working hard on development related studies. I'm still lacking a lot, but I'm full of passion!
-(And I also depend to Google Translate...:(  )
 
 ## About Me!
 
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
-- 👨‍💻 I want to Embedded Software Developer(main is Firmware).
+- 👨‍💻 I want to become a Advanced Developer.
 - 💬 If you want to ask something for me, send me e-mail or Instagram DM please :).
 
 
@@ -20,6 +19,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <a href="https://www.st.com/content/st_com/en.html" target="_blank"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">🧨 Sub Dev 🧨</h3>
