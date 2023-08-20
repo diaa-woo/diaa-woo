@@ -9,6 +9,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
 - 👨‍💻 I want to become a Advanced Developer.
+- Shy ENTJ
 - 💬 If you want to ask something for me, send me e-mail or Instagram DM please :).
 
 
