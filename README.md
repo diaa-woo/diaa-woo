@@ -8,7 +8,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 ## About Me!
 
 - 🌱 I’m currently learning on the Busan Software Meister High School(BSSM).
-- 🌱 I'm doing intership program in <a href="https://www.hanback.com">Hanback Co. Ltd.</a> 
+- 🧑‍💻️ I'm working in <a href="https://www.hanback.com">Hanback CO. LTD.</a> 
 - 👨‍💻 I want to become a Advanced Developer.
 - Shy ENTJ
 - 💬 If you want to ask something for me, send me e-mail or Instagram DM please :).
