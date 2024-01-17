@@ -18,10 +18,10 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 
 <h3 align="center">💥 Main Dev 💥</h3>
 <p align="center">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <a href="https://www.st.com/content/st_com/en.html" target="_blank"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <a href="https://www.st.com/content/st_com/en.html" target="_blank"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🧨 Sub Dev 🧨</h3>
