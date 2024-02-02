@@ -28,7 +28,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
   <a href="https://flutter.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>&nbsp 
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>&nbsp
  
 </p>
