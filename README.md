@@ -11,6 +11,7 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 - 👨‍💻 I want to become a Advanced Developer.
 - 🙃️ Shy ENTJ
 - 💬 If you want to ask something for me, send me e-mail or Instagram DM please :).
+- 😎️ You can see my portfolio in [here](https://sulky-bamboo-eaa.notion.site/Wooseok-Diaa-Hwang-a44299daf658422ca3d1d5002945e39c)
 
 
 ## I can do!
