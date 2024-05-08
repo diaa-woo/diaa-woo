@@ -45,7 +45,9 @@ I'm working hard on development related studies. I'm still lacking a lot, but I'
 ## My Github Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr0501)](https://solved.ac/dntjr0501/)
 
-## Farmer!
+## I'm a Farmer!
+Made by https://github.com/devxb/gitanimals
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/diaa-woo"/>
 </a>
